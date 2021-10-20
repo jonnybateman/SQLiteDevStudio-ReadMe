@@ -1,1 +1,25 @@
 ## Privacy Policy for SQLiteDevStudio Android Application
+We take your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+
+### Collection of Routine Information
+SQLiteDevStudio only collects user information when a user account is initially created to access the app. The only piece of information required is the user's email address. This is not distributed to any other party. It is only stored locally on the device which has had SQLiteDevStudio installed and in an encrypted format. Gathering the email address is for the sole purpose of password recovery.
+
+### Cookies
+SQLiteDevStudio does not use cookies in anyway to store information about a user's preferences and history.
+
+### Advertisement and Other Third Parties
+This app has no advertisement partners or connection to other third party advertisers. As such there is no issue of a user's activities being tracked for the purpose of targetted advertisements or the gathering of personal information.
+
+### Links to Third Party Websites
+We have included links to websites on this app for attributation purposes only. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
+
+### Security
+The security of your personal information is important to us, but remember that no method of transmission over the internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee it's absolute security.
+
+### Changes to this Privacy Policy
+This Privacy Policy is effective as of 20th October 2021 and will remain in effect except with respect to any changes in it's provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you by placing a prominent notice on our app.
+
+### Contact Information
+For any questions or concerns regarding the Privacy Policy, please send us an email to "cqueltech@gmail.com".
