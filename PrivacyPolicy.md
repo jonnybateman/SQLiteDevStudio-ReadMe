@@ -1,1 +1,1 @@
-# Privacy Policy for SQLiteDevStudio Android Application
+## Privacy Policy for SQLiteDevStudio Android Application
