@@ -4,6 +4,8 @@
 
 [Privacy Policy](PrivacyPolicy.md)
 
+[Terms of Service](TermsOfService.md)
+
 SQLiteDevStudio is a front end SQLite Database development and maintenance tool for Android. It has been primarily developed for developers to create databases specific to their own application needs which can then be exported into their own projects.
 
 It can also be used to simply view and edit data. This is particuarly useful when wishing to see the current state of data during the testing phase of application development.
