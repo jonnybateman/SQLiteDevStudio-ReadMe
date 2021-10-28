@@ -42,6 +42,8 @@ SQLiteDevStudio has the following functionality:
 - Import table data in the form of a CSV file
 - Export table data to a CSV file
 
+Some functionality may not be available on older devices. All functions should be available on Android 10(Q) and onwards.
+
 ### Import/Export of .csv Files
 To import a .csv file into a SQLite database table using SQLiteDevStudio the format of the .csv must be as follows:
 ```
