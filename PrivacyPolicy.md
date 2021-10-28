@@ -4,6 +4,33 @@ We take your privacy seriously. To better protect your privacy we provide this p
 ### Collection of Routine Information
 SQLiteDevStudio only collects user information when a user account is initially created to access the app. The only piece of information required is the user's email address. This is not distributed to any other party. It is only stored locally on the device which has had SQLiteDevStudio installed and in an encrypted format. Gathering the email address is for the sole purpose of password recovery.
 
+### Billing
+We do not collect and/or store your billing information. In-app purchases are performed by Google Play. For their payment terms and conditions please see the Google Play Privacy Policy.
+
+### Functionality: Free vs Purchased
+#### Free
+- Create, open and delete databases.
+- Create, view, and edit database objects and data.
+- SQL Editor available to create your own dml/ddl statements.
+- Limit rows returned.
+- Sort rows returned.
+- Describe table structure.
+#### Purchased (in-addition to FREE functionality)
+- Databases opened from shared external storage are imported into the app's internal storage. There they can be edited as required. Once changes are complete the database can then be restored to original location. This means changes made can be seen by any other third-party app that may use the database.
+- Export current open database. Exported as a java class that can be implemented into user's own project.
+- Insert, update, and delete records via user interface, no need for writing SQL statements.
+- Display foreign key information as well as enable/disable foreign key constraints.
+- Create, drop, and alter tables via user interface.
+- Create/drop triggers via user interface.
+- Create/drop indexes via user interface.
+- Extract SQL code for a database object and view it in a formatted easy to read way.
+- Import/export table data via .csv file.
+
+Note:- Some functions may not be available on older devices. All functionality should be available for devices running Android 10 and onwards.
+
+### In-App Purchase
+SQLiteDevStudio is free to download, however, functionality is restricted in the free version. An in-app purchase can be made to unlock the premium functionality. This is a one time only payment which will perpetuate for the lifespan of the application.
+
 ### Does the Application collect precise real time location information of the device?
 This application does not collect any information about the location of your mobile device.
 
