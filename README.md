@@ -27,8 +27,8 @@ SQLiteDevStudio has the following functionality:
 - Export database (exported as a database adapter .java file for applying to your own projects, note: data not exported)
 - Write and execute your own SQL statements with the built in editor
 - SQL keywords/data types/functions/etc are highlighted within the editor
-- Previously executed statements can be re-called through the SQL History dialog
-- View, update, delete, and insert data
+- Previously executed statements for the current session can be re-called through the SQL History dialog
+- View, update, delete, and insert data via a dialog interface
 - View existing foreign keys
 - Enable/Disable foreign key constraints
 - Limit number of rows returned
@@ -41,3 +41,15 @@ SQLiteDevStudio has the following functionality:
 - Extract the SQL for database objects and display code in the SQL Editor
 - Import table data in the form of a CSV file
 - Export table data to a CSV file
+
+### Import/Export of .csv Files
+To import a .csv file into a SQLite database table using SQLiteDevStudio the format of the .csv must be as follows:
+```
+column1_name,column2_name,column3_name,...,columnN-1_name,columnN_name
+column1_value,column2_value,column3_value,...,columnN-1_value,ColumnN_value
+column1_value,,column3_value,...,columnN-1_value,columnN_value
+   ...
+```
+Where 'N' is the number of columns in the table.
+
+Export of data into a .csv file will be of the same format as that shown above.
