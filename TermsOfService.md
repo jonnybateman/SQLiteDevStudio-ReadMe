@@ -11,6 +11,32 @@ You may assign your Google account to SQLiteDevStudio to retrieve your user acco
 ### Payments
 In order to access certain functionality of the Services, you will be required to pay a one-time fee. By purchasing a Premium account via In-App Google Play Billing you agree to pay the one-time fee, and other charges you incur in connection with your account. We reserve the right to increase the fee, any associated taxes, or to institute new fees at any time upon reasonable advance notice. Changes in the Premium Services fee would not affect users who had already made a purchase.
 
+### Functionality: Free vs Purchased(Premium)
+#### Free
+- Create, open and delete databases.
+- Create, view, and edit database objects and data.
+- SQL Editor available to create your own dml/ddl statements.
+- Limit rows returned.
+- Sort rows returned.
+- Describe table structure.
+#### Purchased (in-addition to FREE functionality)
+- Databases opened from shared external storage are imported into the app's internal storage. There they can be edited as required. Once changes are complete the database can then be restored to original location. This means changes made can be seen by any other third-party app that may use the database.
+- Export current open database. Exported as a java class that can be implemented into user's own project.
+- Insert, update, and delete records via user interface, no need for writing SQL statements.
+- Display foreign key information as well as enable/disable foreign key constraints.
+- Create, drop, and alter tables via user interface.
+- Create/drop triggers via user interface.
+- Create/drop indexes via user interface.
+- Extract SQL code for a database object and view it in a formatted easy to read way.
+- Import/export table data via .csv file.
+
+Note:- Some functions may not be available on older devices. All functionality should be available for devices running Android 10 and onwards.
+- Selecting records to update or delete through a user interface is not available on devices running SQLite versions lower than 3.16.0.
+- CSV files can only be imported into database tables on devices running Android 10(Q) or higher.
+- Insertion of records into database tables via a user interface is not available on devices running SQLite versions lower than 3.16.0.
+- Displaying a list of Foreign Keys is not available on devices running SQLite versions lower than 3.16.0.
+- To rename a column in an existing table using the Alter Table user interface requires the device to be running SQLite version 3.25.0 or higher.
+
 ### Cancellation
 Since purchase of Premium services is a one-time fee and not a subscription there is no cancellation. We strongly recommend to trial the free version of the app (with reduced services) before purchasing the Premium version.
 
