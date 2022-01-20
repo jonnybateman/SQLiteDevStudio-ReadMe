@@ -10,6 +10,8 @@ SQLiteDevStudio is a front end SQLite Database development and maintenance tool 
 
 It can also be used to simply view and edit data. This is particuarly useful when wishing to see the current state of data during the testing phase of application development.
 
+For a limited time the app can be trialled as the full premium version. Even when the trial period ends you can continue to use the app with premium services. Re-installing SQLiteDevStudio after the trial period will result in the loss of premium services. A one time in-app purchase can be made to restore the premium functionality.
+
 SQLiteDevStudio can access databases from a number of locations on a given device:
 - **SQLiteDevStudio Internal Storage:** Databases can be created and modified within SQLiteDevStudio's internal storage. Once complete can be exported to another project in the form of a database adapter .java file.
 - **External Shared Storage:** A database that is located in a device's shared storage can be imported into SQLiteDevStudio's internal storage where it can be viewed and edited. To push any changes made to the external version a database restore will need to be done.
