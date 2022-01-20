@@ -7,32 +7,6 @@ SQLiteDevStudio only collects user information when a user account is initially 
 ### Billing
 We do not collect and/or store your billing information. In-app purchases are performed by Google Play. For their payment terms and conditions please see the Google Play Privacy Policy.
 
-### Functionality: Free vs Purchased
-#### Free
-- Create, open and delete databases.
-- Create, view, and edit database objects and data.
-- SQL Editor available to create your own dml/ddl statements.
-- Limit rows returned.
-- Sort rows returned.
-- Describe table structure.
-#### Purchased (in-addition to FREE functionality)
-- Databases opened from shared external storage are imported into the app's internal storage. There they can be edited as required. Once changes are complete the database can then be restored to original location. This means changes made can be seen by any other third-party app that may use the database.
-- Export current open database. Exported as a java class that can be implemented into user's own project.
-- Insert, update, and delete records via user interface, no need for writing SQL statements.
-- Display foreign key information as well as enable/disable foreign key constraints.
-- Create, drop, and alter tables via user interface.
-- Create/drop triggers via user interface.
-- Create/drop indexes via user interface.
-- Extract SQL code for a database object and view it in a formatted easy to read way.
-- Import/export table data via .csv file.
-
-Note:- Some functions may not be available on older devices. All functionality should be available for devices running Android 10 and onwards.
-- Selecting records to update or delete through a user interface is not available on devices running SQLite versions lower than 3.16.0.
-- CSV files can only be imported into database tables on devices running Android 10(Q) or higher.
-- Insertion of records into database tables via a user interface is not available on devices running SQLite versions lower than 3.16.0.
-- Displaying a list of Foreign Keys is not available on devices running SQLite versions lower than 3.16.0.
-- To rename a column in an existing table using the Alter Table user interface requires the device to be running SQLite version 3.25.0 or higher.
-
 ### In-App Purchase
 SQLiteDevStudio is free to download, however, functionality is restricted in the free version (unless installed during the initial trial period which unlocks all functionality for free). An in-app purchase can be made to unlock the premium functionality. This is a one time only payment which will perpetuate for the lifespan of the application.
 
