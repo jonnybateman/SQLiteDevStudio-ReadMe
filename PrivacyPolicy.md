@@ -27,9 +27,14 @@ We do not collect and/or store your billing information. In-app purchases are pe
 - Import/export table data via .csv file.
 
 Note:- Some functions may not be available on older devices. All functionality should be available for devices running Android 10 and onwards.
+- Selecting records to update or delete through a user interface is not available on devices running SQLite versions lower than 3.16.0.
+- CSV files can only be imported into database tables on devices running Android 10(Q) or higher.
+- Insertion of records into database tables via a user interface is not available on devices running SQLite versions lower than 3.16.0.
+- Displaying a list of Foreign Keys is not available on devices running SQLite versions lower than 3.16.0.
+- To rename a column in an existing table using the Alter Table user interface requires the device to be running SQLite version 3.25.0 or higher.
 
 ### In-App Purchase
-SQLiteDevStudio is free to download, however, functionality is restricted in the free version. An in-app purchase can be made to unlock the premium functionality. This is a one time only payment which will perpetuate for the lifespan of the application.
+SQLiteDevStudio is free to download, however, functionality is restricted in the free version (unless installed during the initial trial period which unlocks all functionality for free). An in-app purchase can be made to unlock the premium functionality. This is a one time only payment which will perpetuate for the lifespan of the application.
 
 ### Does the Application collect precise real time location information of the device?
 This application does not collect any information about the location of your mobile device.
