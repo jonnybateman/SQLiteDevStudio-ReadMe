@@ -19,6 +19,7 @@ In order to access certain functionality of the Services, you will be required t
 - Limit rows returned.
 - Sort rows returned.
 - Describe table structure.
+
 #### Purchased (in-addition to FREE functionality)
 - Databases opened from shared external storage are imported into the app's internal storage. There they can be edited as required. Once changes are complete the database can then be restored to original location. This means changes made can be seen by any other third-party app that may use the database.
 - Export current open database. Exported as a java class that can be implemented into user's own project.
@@ -41,7 +42,7 @@ Note:- Some functions may not be available on older devices. All functionality s
 Since purchase of Premium services is a one-time fee and not a subscription there is no cancellation. We strongly recommend to trial the free version of the app (with reduced services) before purchasing the Premium version.
 
 ### Conduct
-The services provided by SQLiteDevStudio are for your personal and noncommercial use. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell for any commercial purposes any portion of the Services, use of the services or access to content. You may not use the services, or assist or encourage any other party, to engage in any of the following prohibited activities:
+The services provided by SQLiteDevStudio are for your personal and commercial use in the development/testing/editing of SQLite databases. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell for any commercial purposes any portion of the Services, use of the services or access to content. An in-app purchase for premium services is applied to a single Google account. The Google account must not be used by more than one person and must be the same person. You may not use the services, or assist or encourage any other party, to engage in any of the following prohibited activities:
 
 - Copying, framing or mirroring any part of the Services.
 - Accessing the Services to monitor its functionality.
