@@ -18,6 +18,8 @@ SQLiteDevStudio can access databases from a number of locations on a given devic
 - **Access via Content Provider:** Another option when you are developing your own app is to include a content provider to allow SQLiteDevStudio to access the database(s) within your app's internal storage. The required content provider can be found [here](http://github.com/jonnybateman/SQLiteContentProvider.git) along with instructions on how to apply it. Since a content provider could allow apps other than SQLiteDevStudio to access your database a level of security has been added to the provider. Only database requests submitted to the content provider with the correct provider access code will be granted. On completion of your project and prior to release the content provider should be removed or the associated 'exported' variable in the manifest file set to false.
 - **Third-Party App Internal Storage:** To access databases of third-party apps the device needs to be rooted. If this is the case then the databases can be accessed, viewed, and modified directly. SQLiteDevStudio has a built in file explorer for navigating to the required database.
 
+SQLiteDevStudio can also be installed on an Emulator (with Google Play) in your own development environment. This is useful during developent and testing of your own applications.
+
 After install a user account needs to be set up to access the application. User will be prompted for an email address. This is used only in the event that the user has forgotten their password. Password will be sent to the email address that was used during account setup. Email address is encrypted and only stored locally on the device. It is not shared amongst any other parties.
 
 ### Functionality
@@ -44,7 +46,7 @@ SQLiteDevStudio has the following functionality:
 - Import table data in the form of a CSV file
 - Export table data to a CSV file
 
-Some functionality may not be available on older devices. All functions should be available on Android 10(Q) and onwards.
+Some functionality may not be available on older devices (see [Terms of Service](TermsOfService.md)). All functions should be available on Android 10(Q) and onwards.
 
 ### Import/Export of .csv Files
 To import a .csv file into a SQLite database table using SQLiteDevStudio the format of the .csv must be as follows:
