@@ -37,6 +37,7 @@ Note:- Some functions may not be available on older devices. All functionality s
 - Insertion of records into database tables via a user interface is not available on devices running SQLite versions lower than 3.16.0.
 - Displaying a list of Foreign Keys is not available on devices running SQLite versions lower than 3.16.0.
 - To rename a column in an existing table using the Alter Table user interface requires the device to be running SQLite version 3.25.0 or higher.
+- Displaying information for a given database index is not available on devices running SQLite versions lower than 3.16.0.
 
 ### Cancellation
 Since purchase of Premium services is a one-time fee and not a subscription there is no cancellation. We strongly recommend to trial the free version of the app (with reduced services) before purchasing the Premium version.
