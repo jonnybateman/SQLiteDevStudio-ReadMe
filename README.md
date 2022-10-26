@@ -32,6 +32,7 @@ SQLiteDevStudio has the following functionality:
 - Write and execute your own SQL statements with the built in editor
 - SQL keywords/data types/functions/etc are highlighted within the editor
 - Previously executed statements for the current session can be re-called through the SQL History dialog
+- Database transaction functionality (begin transaction; commit; rollback)
 - View, update, delete, and insert data via a dialog interface
 - View existing foreign keys
 - Enable/Disable foreign key constraints
