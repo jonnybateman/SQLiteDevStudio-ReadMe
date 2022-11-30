@@ -43,6 +43,7 @@ SQLiteDevStudio has the following functionality:
 - Create and drop triggers
 - Display database indexes
 - Create and drop indexes
+- BLOB viewer (images, PDFs, and text files supported). Display BLOBs stored in SQLite database
 - Extract the SQL for database objects and display code in the SQL Editor
 - Import table data in the form of a CSV file
 - Export table data to a CSV file
